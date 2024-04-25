@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "oxygen_not_include:block/oxygen" }
+  }
+}
